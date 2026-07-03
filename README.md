@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arthur Almeida!
+# 👋 Hi, I'm Arthur!
 
 I'm a **Computer Science** student at the **State University of Ceará (UECE)** and an **Administration Technician**, passionate about software development, problem-solving, and continuous learning.
 
@@ -6,18 +6,21 @@ I enjoy turning theoretical concepts into practical solutions through academic a
 
 Here on GitHub, you'll find projects that reflect my learning journey, with an emphasis on clean code, organized documentation, and continuous improvement.
 
-## 🚀 Currently Working On
+## Currently Working On
 
 * Developing academic and personal software projects.
 * Strengthening my knowledge of algorithms and data structures.
 * Expanding my skills in software development and best programming practices.
 
-## 💻 Technologies
-[![My Skills](https://skillicons.dev/icons?i=c,git,github)](https://skillicons.dev)
+## Technologies
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
-## 📫 Let's Connect
+## Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-I'm always open to learning, collaborating, and connecting with other developers and technology enthusiasts.
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-da-silva-almeida/)
 
 
 <!--
