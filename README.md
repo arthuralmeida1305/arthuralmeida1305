@@ -20,9 +20,9 @@ Here on GitHub, you'll find projects that reflect my learning journey, with an e
 ## Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-## Featured Projects
-
 ---
+
+## Featured Projects
 
 ### Library Management System
 
