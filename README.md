@@ -12,11 +12,34 @@ Here on GitHub, you'll find projects that reflect my learning journey, with an e
 * Strengthening my knowledge of algorithms and data structures.
 * Expanding my skills in software development and best programming practices.
 
+---
+
 ## Technologies
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 ## Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+## Featured Projects
+
+---
+
+### Library Management System
+
+Library Management System developed in C for the Programming and Algorithms course at UECE.
+
+🔗https://github.com/arthuralmeida1305/Library-Management-System
+
+---
+
+### Circuit Logic
+
+Digital clock developed using digital logic circuits,
+including counters and BCD-to-7-segment decoders. Additionally, it features the construction of a multiplexer, an encoder, and a magnitude comparator.
+
+🔗 https://github.com/arthuralmeida1305/Circuit-Logic
+
+---
 
 ## Connect with me
 
